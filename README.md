@@ -15,49 +15,83 @@ Here are some ideas to get you started:
 -->
 
 #  🌱 My Profile
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=NOH%20UIBIN&fontSize=90&animation=fadeIn" />
+<!---------- 0. 헤더 ------------>
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=NOH-UIBIN&fontSize=100&animation=fadeIn" />
 
-> <strong>안녕하세요. 풀스택 개발자를 꿈꾸고 있는 예비 개발자입니다.</strong>
+> <strong>Hello. I am a junior developer who dreams of becoming a full-stack developer!</strong>
 >
-> <strong>아래에는 제 프로필에 대한 정보가 있습니다🙂</strong>
-<!-- 소개 -->
+> <strong>Below is information about my profile.🙂</strong>
+<!---------- 1. 소개 ------------>
 ## 🔍 Introduction
 >
 > ### 🔥 I'm interested in..
-> - 
-> - Contents.
-> - Contents.
->
+> - <strong>Web Service DevOps</strong>
+> 
+> - <strong>Cloud Server Management</strong>
+> 
+> - <strong>Database Design and Implementation</strong>
+> 
+> - <strong>Learing new skills</strong>
+> #
 > ### ⭐ I'm good at.. 
-> - Contents.
-> - Contents.
-> - Contents.
->
+> - <strong>Web Service Develop</strong>
+> 
+> - <strong>Cloud Server Management</strong>
+> 
+> - To be added..
+>#
 > ### 📕 I'm learing.. 
-> - Contents.
-> - Contents.
-> - Contents.
+> - Front-End (HTML5, CSS, JavaScript)
+> 
+> - Back-End (Java, JavaScript)
+> 
+> - Framework (Springboot, Node.js, Express)
 >
+> - Database (MariaDB, MongoDB)
+>
+> - OS (Ubuntu)
 #
-<!-- 기술 부분 -->
-## 🔧Skills
+<!--------- 2. 기술 부분 ---------->
+## 🔧Skills(will be good at..)
 > 
 <!-- Front-End 뱃지 -->
 > - <strong>Front-End</strong>
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height: 25px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img style="height: 25px;" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-> 
+> #
+>
 <!-- Back-End 뱃지 -->
 > - <strong>Back-End</strong>
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
->
+> #
+> 
 <!-- Tools 뱃지 -->
 > - <strong>Tools</strong>
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=181717">
 >
 > 
-#
-
-##
+<!---------- 3. 프로젝트 소개 ------------>
+## 🌈 Projects
+>
+> ### 💡전북대 튜토리얼
+> - 2018.10 ~ 2018.12
+> - 전북대학교 신입생들을 위한 안드로이드 앱
+> - 앱인벤터(TinyDB, OpenAPI)
+> - 🥉 2018 전북대학교 컴퓨터공학부 주최 작품경진대회 동상 입상
+> #
+> ### 💡어제의 나 이기기
+> - 2021.05 ~ 2021.06
+> - 어제의 나와의 승부를 통해 설정한 목표를 달성 할 수 있게 도와주는 안드로이드 앱
+> - Android Studio(Java, SQLite, OpenAPI)
+> #
+> ### 💡지식 나눔 커뮤니티 The-Vision
+> - 2022.10 ~ ing
+> - 여러 분야의 지식들을 무료로 나누는 웹 커뮤니티
+> - 미정.
+> #
+> ### 💡피드백이 가능한 TODO LIST
+> - 2022.10 ~ ing
+> - 할 일을 설정해두고 일정 기간마다 실천 결과에 따른 피드백을 작성하는 TODO LIST
+> - Front(HTML5, CSS, JS) / Back(Node.js, MongoDB) / Cloud-Server(AWS-EC2: ubuntu 22.04)
