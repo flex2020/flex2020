@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 #  🌱 My Profile
-https://capsule-render.vercel.app/api?![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=NOH-UIBIN%20render&fontSize=90)
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=NOH%20UIBIN&fontSize=90&animation=fadeIn" />
+
 > <strong>안녕하세요. 풀스택 개발자를 꿈꾸고 있는 예비 개발자입니다.</strong>
 >
 > <strong>아래에는 제 프로필에 대한 정보가 있습니다🙂</strong>
