@@ -13,15 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
 #  🌱 My Profile
-> 안녕하세요. 풀스택 개발자를 꿈꾸고 있는 예비 개발자입니다.
+https://capsule-render.vercel.app/api?![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=NOH-UIBIN%20render&fontSize=90)
+> <strong>안녕하세요. 풀스택 개발자를 꿈꾸고 있는 예비 개발자입니다.</strong>
 >
-> 아래에는 제 프로필에 대한 정보가 있습니다.
+> <strong>아래에는 제 프로필에 대한 정보가 있습니다🙂</strong>
 <!-- 소개 -->
 ## 🔍 Introduction
 >
 > ### 🔥 I'm interested in..
-> - Contents.
+> - 
 > - Contents.
 > - Contents.
 >
@@ -37,7 +39,7 @@ Here are some ideas to get you started:
 >
 #
 <!-- 기술 부분 -->
-## Skills
+## 🔧Skills
 > 
 <!-- Front-End 뱃지 -->
 > - <strong>Front-End</strong>
