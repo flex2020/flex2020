@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 > 
 > - <strong>Database Design and Implementation</strong>
 > 
-> - <strong>Learing new skills</strong>
+> - <strong>Learing New Skills</strong>
 > #
 > ### ⭐ I'm good at.. 
 > - <strong>Web Service Develop</strong>
