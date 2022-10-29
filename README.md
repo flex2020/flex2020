@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <!-- Tools 뱃지 -->
 > - ### Tools
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=181717">
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 >
 > 
 <!---------- 3. 프로젝트 소개 ------------>
