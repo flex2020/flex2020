@@ -55,19 +55,19 @@ Here are some ideas to get you started:
 ## 🔧Skills(will be good at..)
 > 
 <!-- Front-End 뱃지 -->
-> - <strong>Front-End</strong>
+> - ### Front-End
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height: 25px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img style="height: 25px;" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 > #
 >
 <!-- Back-End 뱃지 -->
-> - <strong>Back-End</strong>
+> - ### Back-End
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height: 25px;" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img style="height: 25px;" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img style="height: 25px;" src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 > #
 > 
 <!-- Tools 뱃지 -->
-> - <strong>Tools</strong>
+> - ### Tools
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=181717">
 >
