@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 #  🌱 My Profile
 <!---------- 0. 헤더 ------------>
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=120&section=header&text=NOH-UIBIN&fontSize=70&animation=fadeIn" />
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&section=header&text=NOH-UIBIN&fontSize=70&animation=fadeIn" />
 
 > <strong>Hello. I am a junior developer who dreams of becoming a full-stack developer!</strong>
 >
