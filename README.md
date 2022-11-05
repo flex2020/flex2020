@@ -94,4 +94,5 @@ Here are some ideas to get you started:
 > ### 💡피드백이 가능한 TODO LIST
 > - 2022.10 ~ ing
 > - 할 일을 설정해두고 일정 기간마다 실천 결과에 따른 피드백을 작성하는 TODO LIST
-> - Front(HTML5, CSS, JS) / Back(Node.js, MongoDB) / Cloud-Server(AWS-EC2: ubuntu 22.04)
+> - Front(React, Next.js) / Back(Express.js, MongoDB) / Cloud-Server(AWS-EC2: ubuntu 22.04)
+#
