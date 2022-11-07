@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 > - To be added..
 >#
 > ### 📕 I'm learing.. 
-> - Front-End (HTML5, CSS, JavaScript)
+> - Front-End (HTML5, CSS, JavaScript, React)
 > 
 > - Back-End (Java, JavaScript)
 > 
