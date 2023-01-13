@@ -1,19 +1,3 @@
-<!--
-**flex2020/flex2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
 #  🌱 My Profile
 <!---------- 0. 헤더 ------------>
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&section=header&text=NOH-UIBIN&fontSize=70&fontAlignY=55&animation=fadeIn" />
@@ -41,15 +25,15 @@ Here are some ideas to get you started:
 > - To be added..
 >#
 > ### 📕 I'm learing.. 
-> - Front-End (HTML5, CSS, JavaScript, React)
+> - Front-End (HTML5, CSS, JavaScript)
 > 
-> - Back-End (Java, JavaScript)
+> - Language (Java)
 > 
-> - Framework (Springboot, Node.js, Express)
+> - Framework (Springboot)
 >
-> - Database (MariaDB, MongoDB)
->
-> - OS (Ubuntu)
+> - Database (MariaDB)
+> 
+> - CI / CD
 #
 <!--------- 2. 기술 부분 ---------->
 ## 🔧Skills(will be good at..)
@@ -63,7 +47,7 @@ Here are some ideas to get you started:
 <!-- Back-End 뱃지 -->
 > - ### Back-End
 >
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height: 25px;" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img style="height: 25px;" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img style="height: 25px;" src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img style="height: 25px;" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img style="height: 25px;" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 > #
 > 
 <!-- Tools 뱃지 -->
@@ -78,21 +62,21 @@ Here are some ideas to get you started:
 > ### 💡전북대 튜토리얼
 > - 2018.10 ~ 2018.12
 > - 전북대학교 신입생들을 위한 안드로이드 앱
+> - 아이디어 제시
 > - 앱인벤터(TinyDB, OpenAPI)
 > - 🥉 2018 전북대학교 컴퓨터공학부 주최 작품경진대회 동상 입상
 > #
 > ### 💡어제의 나 이기기
 > - 2021.05 ~ 2021.06
 > - 어제의 나와의 승부를 통해 설정한 목표를 달성 할 수 있게 도와주는 안드로이드 앱
-> - Android Studio(Java, SQLite, OpenAPI)
+> - 개발 담당
+> - Android Studio(Java, SQLite, OpenAPI, OpenSource Timer)
 > #
-> ### 💡지식 나눔 커뮤니티 The-Vision
-> - 2022.10 ~ ing
-> - 여러 분야의 지식들을 무료로 나누는 웹 커뮤니티
-> - 미정.
-> #
-> ### 💡피드백이 가능한 TODO LIST
-> - 2022.10 ~ ing
-> - 할 일을 설정해두고 일정 기간마다 실천 결과에 따른 피드백을 작성하는 TODO LIST
-> - Front(React, Next.js) / Back(Express.js, MongoDB) / Cloud-Server(AWS-EC2: ubuntu 22.04)
+> ### 💡KCRMS 프로토타입
+> - 2022.08 ~ ing
+> - 키르기즈스탄 문화 자원 관리 시스템
+> - 운영서버(AWS EC2) 구축 및 관리 / Full-stack 개발 / 코드 리팩토링
+> - Front (HTML, CSS, JavaScript, JQuery, Bootstrap 5)
+> - Back (Spring boot, MariaDB, JPA)
+> - Server (AWS EC2)
 #
