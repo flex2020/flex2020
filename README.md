@@ -77,6 +77,7 @@
 > - 전국 코로나19 예방접종자 지도 (예방접종자 수, 예방접종률, 집단면역까지 남은 일 수 계산)
 > - 개인 프로젝트
 > - C#, WPF, OpenAPI
+> #
 > ### 💡KCRMS 프로토타입
 > - 2022.08 ~ ing
 > - 키르기즈스탄 문화 자원 관리 시스템
@@ -84,7 +85,8 @@
 > - Front (HTML, CSS, JavaScript, JQuery, Bootstrap 5)
 > - Back (Spring boot, MariaDB, JPA)
 > - Server (AWS EC2)
-> > ### 💡전북대학교 Slack 챗봇
+> #
+> ### 💡전북대학교 Slack 챗봇
 > - 2022.10 ~ 2022.12
 > - 전북대학교 Slack 챗봇
 > - 기능 개발, 쉘스크립트로 구현한 배포 자동화
