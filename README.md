@@ -2,9 +2,12 @@
 <!---------- 0. 헤더 ------------>
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&section=header&text=NOH-UIBIN&fontSize=70&fontAlignY=55&animation=fadeIn" />
 
-> <strong>Hello. I am a junior developer who dreams of becoming a full-stack developer!</strong>
->
+> <strong>Hello. I am a junior developer who dreams of becoming a back-end developer!</strong>
+> 
 > <strong>Below is information about my profile.🙂</strong>
+> 
+> <a href="https://calm-fireplant-040.notion.site/Profile-7175cbd7c3234d098049e08d501ed7a0">노션 포트폴리오 바로가기</a>
+> 
 <!---------- 1. 소개 ------------>
 ## 🔍 Introduction
 >
