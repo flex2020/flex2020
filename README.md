@@ -6,7 +6,6 @@
 > 
 > <strong>Below is information about my profile.🙂</strong>
 > 
-> <a href="https://calm-fireplant-040.notion.site/Profile-7175cbd7c3234d098049e08d501ed7a0">노션 포트폴리오 바로가기</a>
 > 
 <!---------- 1. 소개 ------------>
 ## 🔍 Introduction
