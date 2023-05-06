@@ -83,7 +83,7 @@
 > ### 💡KCRMS 프로토타입
 > - 2022.08 ~ ing
 > - 키르기즈스탄 문화 자원 관리 시스템
-> - 운영서버(AWS EC2) 구축 및 관리 / Full-stack 개발 / 코드 리팩토링
+> - 운영서버(AWS EC2) 구축 및 관리 / Full-stack 개발 / 코드 리팩토링 / Rest Api 개발
 > - Front (HTML, CSS, JavaScript, JQuery, Bootstrap 5)
 > - Back (Spring boot, MariaDB, JPA)
 > - Server (AWS EC2)
