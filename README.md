@@ -1,5 +1,5 @@
 # 노의빈 NOH UIBIN
-**🌱 Junior Back-End Developer**
+**🌱 To be a back-end developer**
 
 **🛠Tech Stack**
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
