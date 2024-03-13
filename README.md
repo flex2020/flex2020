@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ja09099)](https://solved.ac/ja09099/)
 
 **👨‍👨‍👦‍👦사단법인무형문화연구원 학부연구생 및 현장실습 인턴** / 2022.09 ~ 2023.07
 
