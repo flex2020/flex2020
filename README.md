@@ -1,5 +1,5 @@
 # 노의빈 NOH UIBIN
-**🌱 To be a back-end developer**
+**🌱 Fullstack Developer**
 
 **🛠Tech Stack**
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
@@ -12,7 +12,7 @@
 
 **👨‍👨‍👦‍👦사단법인무형문화연구원 학부연구생 및 현장실습 인턴** / 2022.09 ~ 2023.07
 
-😎 **SSAFY 11기 JAVA 트랙 진행 중** / 2024.01 ~ 
+😎 **SSAFY 11기 1학기 JAVA 트랙 이수** / 2024.01 ~ 2024.08
 
 
 **📌Blog Posts**
